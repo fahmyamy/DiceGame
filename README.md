@@ -1,5 +1,5 @@
 # DiceGame
-# Mohamad Fahmi bin Mohamad Shuhari
+#Mohamad Fahmi bin Mohamad Shuhari <br>
 #Programming Test 
 Your company would like to develop a dice game. The game rules are as below: 
 1.	The game contains 4 players.
