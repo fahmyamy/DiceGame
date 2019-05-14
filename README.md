@@ -40,4 +40,4 @@ Player D: 2, 1 <br />
 (Repeat until winner(s) is found) 
 
 <h3>Sample Output</h3>
-<img src="https://github.com/fahmyamy/DiceGame/blob/master/output.png" style="float-center" />
+<img src="https://github.com/fahmyamy/DiceGame/blob/master/output.png" border="1" />
