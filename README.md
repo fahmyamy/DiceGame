@@ -13,28 +13,31 @@ You are required to write a program to simulate this game and print out the resu
 Example of output: 
 
 Round 1 
-After dice rolled: 
-Player A: 3,4,5,6,1,1 
-Player B: 5,4,5,4,3,1 
-Player C: 6,6,6,3,2,4 
-Player D: 5,1,3,2,4,1 
+After dice rolled:<br>
+Player A: 3,4,5,6,1,1 <br>
+Player B: 5,4,5,4,3,1 <br>
+Player C: 6,6,6,3,2,4 <br>
+Player D: 5,1,3,2,4,1 <br>
 
-After dice moved/removed: 
-Player A: 3,4,5,1,1 
-Player B: 5,4,5,4,3,1,1 
-Player C: 3,2,4,1 
-Player D: 5,3,2,4 
+After dice moved/removed: <br>
+Player A: 3,4,5,1,1 <br>
+Player B: 5,4,5,4,3,1,1 <br>
+Player C: 3,2,4,1 <br>
+Player D: 5,3,2,4 <br>
 
-Round 2: 
-After dice rolled: 
-Player A: 2,3,6,2,6 
-Player B: 6,6,6,4,1,3 
-Player C: 3,2,1,6 
-Player D: 6,6,1,2 
+Round 2: <br>
+After dice rolled: <br>
+Player A: 2,3,6,2,6 <br>
+Player B: 6,6,6,4,1,3 <br>
+Player C: 3,2,1,6 <br>
+Player D: 6,6,1,2 <br>
 
-After dice moved/removed: 
-Player A: 2,3,2,1 
-Player B: 4, 1, 3 
-Player C: 3, 2, 1 
-Player D: 2, 1 
-(Repeat un l winner(s) is found) 
+After dice moved/removed: <br>
+Player A: 2,3,2,1 <br>
+Player B: 4, 1, 3 <br>
+Player C: 3, 2, 1 <br>
+Player D: 2, 1 <br />
+(Repeat until winner(s) is found) 
+
+<h3>Sample Output</h3>
+<img src="https://github.com/fahmyamy/DiceGame/blob/master/output.png" style="float-center" />
